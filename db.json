@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "jobs": [
+    {
+      "title": "Design",
+      "id":1,
+      "details":"lorem"
+    },
+    {
+      "title": "Development",
+      "id":2,
+      "details":"lorem"
+    },
+    {
+      "title": "Dev Game",
+      "id":3,
+      "details":"lorem"
+    }
+  ]
+}
